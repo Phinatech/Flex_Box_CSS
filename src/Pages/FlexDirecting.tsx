@@ -2,7 +2,12 @@ import React from 'react'
 
 const FlexDirecting = () => {
   return (
-    <div>FlexDirecting</div>
+    <div>helllo</div>
+    <div>helllo</div>
+    <div>helllo</div>
+    <div>helllo</div>
+    <div>helllo</div>
+
   )
 }
 
